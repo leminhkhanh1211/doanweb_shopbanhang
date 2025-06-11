@@ -24,8 +24,6 @@
 #### Giao diện của ứng dụng
 # Giao diện của khách hàng
 + Giao diện của khách hàng được thiết kế thân thiện và dễ sử dụng, giúp người dùng có thể dễ dàng thực hiện các thao tác mua sắm trên website.
-
-
   
 ![image](https://github.com/user-attachments/assets/1610e624-44c8-415f-bd1b-27536aefb1f9)
 **+ Giao diện trang chủ** hiển thị các sản phẩm nổi bật và các danh mục chính, giúp khách hàng dễ dàng tìm kiếm sản phẩm.
@@ -33,7 +31,7 @@
 ![image](https://github.com/user-attachments/assets/7129c6fa-eb6c-4829-8cf4-d3c727383217)
 **+ Giao diện đăng nhập** cho phép khách hàng đăng nhập vào hệ thống để quản lý tài khoản và đặt hàng.
 
-![image](https://github.com/user-attachments/assets/c0ab62c4-5af2-4818-ad02-29b896324846)
+![image](https://github.com/user-attachments/assets/fa268711-1dc9-445c-ba91-8e7d5541d41e)
 **+ Giao diện đăng kí** cho phép khách hàng tạo tài khoản mới một cách nhanh chóng và thuận tiện.
 
 ![image](https://github.com/user-attachments/assets/5d8e8a70-e0de-4aeb-94cc-e3811bfa234e)

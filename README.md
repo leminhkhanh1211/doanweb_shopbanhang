@@ -1,5 +1,5 @@
 # Shop Bán Đồ Decor Phòng
-Ứng dụng web bán hàng thủ công, giúp người dùng dễ dàng mua sắm và quản lý đơn hàng.
+Ứng dụng web bán đồ decor phòng, giúp người dùng dễ dàng mua sắm và quản lý đơn hàng.
 
 ## Cài đặt
 1. Clone repo: `git clone https://github.com/leminhkhanh1211/doanweb_shopbanhang`  
@@ -78,30 +78,40 @@ Giao diện quản trị viên được thiết kế chuyên nghiệp với đ�
 
 **Giao diện trang quản lí liệt kê danh mục sản phẩm** giúp theo dõi và chỉnh sửa các danh mục hiện có.
 
+![image](https://github.com/user-attachments/assets/e27dfbf8-1ca0-4e89-a4ea-24f1649bf480)
+
+
 ![image](https://github.com/user-attachments/assets/486e1873-b6de-41d3-bbcd-997226a1ae24)
 
 **Giao diện trang quản lí thêm thương hiệu sản phẩm** cho phép thêm mới các thương hiệu vào hệ thống.
 
-![image](https://github.com/user-attachments/assets/23dfbdb8-9d6d-4e31-92b9-792976c6eab2)
+![image](https://github.com/user-attachments/assets/06e7e3d8-4202-4a5d-ac66-eae943d43924)
+
 **Giao diện trang quản lí liệt kê thương hiệu sản phẩm** giúp quản trị viên quản lý các thương hiệu đã tạo.
 
-![image](https://github.com/user-attachments/assets/aac01e8e-1172-41df-a84e-d58910a46cf2)
+![image](https://github.com/user-attachments/assets/f79632da-acbd-49c4-bc91-206294b90827)
+
 **Giao diện trang quản lí thêm sản phẩm** để thêm mới sản phẩm vào kho hàng.
 
-![image](https://github.com/user-attachments/assets/d26cd4b0-168e-4e2f-bb5d-1abbff01ad30)
+![image](https://github.com/user-attachments/assets/6d581530-57e9-4668-b0e2-0d1cefaf7801)
+
 **Giao diện trang quản lí liệt kê sản phẩm** giúp xem danh sách và chỉnh sửa thông tin sản phẩm.
 
-![image](https://github.com/user-attachments/assets/73ca5027-43a4-48d7-a2eb-a8cdd3c3bc89)
+![image](https://github.com/user-attachments/assets/2f567b90-9e96-4d47-b2f1-710fc15c938a)
+
 **Giao diện trang quản lí liệt kê đơn hàng** giúp quản trị viên theo dõi các đơn hàng đã được đặt.
 
 ![image](https://github.com/user-attachments/assets/72a6b16e-9a4c-443e-bd65-5a1e727b89fe)
 
 **Giao diện trang quản lí thêm mã giảm giá** cho phép tạo các chương trình khuyến mãi.
 
-![image](https://github.com/user-attachments/assets/32e17926-91f3-4262-af3c-397c171ce7bc)
+![image](https://github.com/user-attachments/assets/2b404cf1-4f3b-45a5-a25a-fbd31f647964)
+
 **Giao diện trang quản lí liệt kê mã giảm giá** giúp quản lý các mã giảm giá hiện có.
 
-![image](https://github.com/user-attachments/assets/7c5855c9-0004-4e82-b6a6-ac19642e1a65)
+![image](https://github.com/user-attachments/assets/56a1af43-86d1-4c91-a552-1c622cbdbdfb)
+
 **Giao diện trang quản lí thêm giá vận chuyển** để cập nhật các mức phí vận chuyển theo vùng miền.
 
-![image](https://github.com/user-attachments/assets/d783fe58-e46f-4128-87b8-df3037db98d4)
+![image](https://github.com/user-attachments/assets/db7eb225-ffb8-4c07-9b92-acaefcc72f35)
+

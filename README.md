@@ -27,7 +27,7 @@
  
 **+ Giao diện trang chủ** hiển thị các sản phẩm nổi bật và các danh mục chính, giúp khách hàng dễ dàng tìm kiếm sản phẩm.
 
-![image](https://github.com/user-attachments/assets/a2ed8fb0-3748-41f3-baa8-ef4a70e4a4b5)
+                ![image](https://github.com/user-attachments/assets/a2ed8fb0-3748-41f3-baa8-ef4a70e4a4b5)
 
 **+ Giao diện đăng nhập** cho phép khách hàng đăng nhập vào hệ thống để quản lý tài khoản và đặt hàng.
 

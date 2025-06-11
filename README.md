@@ -24,12 +24,11 @@
 #### Giao diện của ứng dụng
 # Giao diện của khách hàng
 + Giao diện của khách hàng được thiết kế thân thiện và dễ sử dụng, giúp người dùng có thể dễ dàng thực hiện các thao tác mua sắm trên website.
-  
-![image](https://github.com/user-attachments/assets/1610e624-44c8-415f-bd1b-27536aefb1f9)
-
+ 
 **+ Giao diện trang chủ** hiển thị các sản phẩm nổi bật và các danh mục chính, giúp khách hàng dễ dàng tìm kiếm sản phẩm.
 
-![image](https://github.com/user-attachments/assets/7129c6fa-eb6c-4829-8cf4-d3c727383217)
+![image](https://github.com/user-attachments/assets/a2ed8fb0-3748-41f3-baa8-ef4a70e4a4b5)
+
 **+ Giao diện đăng nhập** cho phép khách hàng đăng nhập vào hệ thống để quản lý tài khoản và đặt hàng.
 
 ![image](https://github.com/user-attachments/assets/f8d3cc94-7377-49e1-b2e6-0d53f62aff60)
@@ -67,6 +66,18 @@ Giao diện quản trị viên được thiết kế chuyên nghiệp với đ�
 **Giao diện đăng nhập Admin** bảo mật, chỉ cho phép người có quyền truy cập vào trang quản trị.
 
 ![image](https://github.com/user-attachments/assets/1addb0d9-314b-453c-a559-7c843c72495a)
+
+**Giao diện trang quản lí bình luận** cho phép quản trị viên duyệt bình luận , trả lời bình luận 
+
+![image](https://github.com/user-attachments/assets/ee902d2c-177c-458b-aa5d-7e200878c1da)
+
+**Giao diện trang quản lí thêm Slider** cho phép quản trị viên tạo mới các Slider.
+
+![image](https://github.com/user-attachments/assets/c8273b5a-7de3-4ac7-b732-d61644c77cc9)
+
+**Giao diện trang quản lí liệt kê Slider** cho phép quản trị viên quản lý các Slider đã tạo.
+
+![image](https://github.com/user-attachments/assets/660c2ca6-d31b-4bb4-a42b-b8bdd4bfab1f)
 
 **Giao diện trang quản lí thêm danh mục sản phẩm** cho phép quản trị viên tạo mới các danh mục sản phẩm.
 

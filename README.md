@@ -65,14 +65,10 @@
 Giao diện quản trị viên được thiết kế chuyên nghiệp với đầy đủ chức năng quản lý hệ thống, giúp quản trị viên dễ dàng điều hành và cập nhật thông tin.
 
 **Giao diện đăng nhập Admin** bảo mật, chỉ cho phép người có quyền truy cập vào trang quản trị.
+
 ![image](https://github.com/user-attachments/assets/1addb0d9-314b-453c-a559-7c843c72495a)
 
-
-![image](https://github.com/user-attachments/assets/0a8f222f-ac6b-4c10-b7d7-6e83ccb2a313)
-**Giao diện trang quản trị** t
-
-![image](https://github.com/user-attachments/assets/dc7db013-25ab-4582-bcfe-afdd4418de55)
-**Giao diện trang quản lí thêm danh mục** cho phép quản trị viên tạo mới các danh mục sản phẩm.
+**Giao diện trang quản lí thêm danh mục sản phẩm** cho phép quản trị viên tạo mới các danh mục sản phẩm.
 
 ![image](https://github.com/user-attachments/assets/8c21025c-23b0-4cb2-8f4d-fcc09d5cf984)
 
@@ -80,8 +76,21 @@ Giao diện quản trị viên được thiết kế chuyên nghiệp với đ�
 
 ![image](https://github.com/user-attachments/assets/e27dfbf8-1ca0-4e89-a4ea-24f1649bf480)
 
+**Giao diện trang quản lí thêm danh mục bài viết** cho phép quản trị viên tạo mới các danh mục bài viết
 
 ![image](https://github.com/user-attachments/assets/486e1873-b6de-41d3-bbcd-997226a1ae24)
+
+**Giao diện trang quản lí liệt kê danh mục bài viết** cho phép quản trị viên quản lý các danh mục bài viết đã tạo
+
+![image](https://github.com/user-attachments/assets/04233ce2-f68d-4f54-911c-432ede02a0c1)
+
+**Giao diện trang quản lí thêm bài viết** cho phép quản trị viên tạo mới các bài viết
+
+![image](https://github.com/user-attachments/assets/a2df918f-f8e4-4292-b982-dc5a4f79bd33)
+
+**Giao diện trang quản lí liệt kê bài viết** cho phép quản trị viên quản lý các bài viết đã tạo
+
+![image](https://github.com/user-attachments/assets/6040493f-665c-4759-9de1-ba1a9b85c250)
 
 **Giao diện trang quản lí thêm thương hiệu sản phẩm** cho phép thêm mới các thương hiệu vào hệ thống.
 
@@ -114,4 +123,13 @@ Giao diện quản trị viên được thiết kế chuyên nghiệp với đ�
 **Giao diện trang quản lí thêm giá vận chuyển** để cập nhật các mức phí vận chuyển theo vùng miền.
 
 ![image](https://github.com/user-attachments/assets/db7eb225-ffb8-4c07-9b92-acaefcc72f35)
+
+**Giao diện trang quản lí thêm User** cho phép thêm mới các user.
+
+![image](https://github.com/user-attachments/assets/3d4e7fdb-6517-47f7-b117-c5972d4faa28)
+
+**Giao diện trang quản lí User** giúp quản lý các user hiện có.
+
+![image](https://github.com/user-attachments/assets/b8ff5121-db45-483f-872d-e5fc440e5a35)
+
 

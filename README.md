@@ -48,14 +48,18 @@
 
 **+ Giao diện giỏ hàng** giúp khách hàng quản lý các sản phẩm đã chọn trước khi tiến hành đặt hàng.
 
-![image](https://github.com/user-attachments/assets/93799b52-6f90-4021-ad60-a5e6e9fe7b0f)
+![image](https://github.com/user-attachments/assets/bcf3c820-7eb0-450a-b8bf-eca4dec01488)
+
 **+ Giao diện xác nhận thông tin đơn hàng** để khách hàng kiểm tra lại các chi tiết trước khi thanh toán.
 
-![image](https://github.com/user-attachments/assets/7e2f8170-77f6-4a72-8a76-d2824f957643)
+![image](https://github.com/user-attachments/assets/90219f93-496f-4929-a4a6-de9914ca7800)
+
 **+ Giao diện tính phí vận chuyển** hỗ trợ khách hàng tính toán chi phí vận chuyển dựa trên địa chỉ nhận hàng.
 
 ![image](https://github.com/user-attachments/assets/16860215-06ca-44f0-bcc9-9a3ffab59821)
 **+ Giao diện đặt hàng** hoàn tất quá trình mua sắm và gửi đơn hàng đến hệ thống xử lý.
+![image](https://github.com/user-attachments/assets/08208480-74c4-41ac-8f3d-c48d0c60e589)
+
 
 1.1.2. Giao diện của quản trị viên
 Giao diện quản trị viên được thiết kế chuyên nghiệp với đầy đủ chức năng quản lý hệ thống, giúp quản trị viên dễ dàng điều hành và cập nhật thông tin.

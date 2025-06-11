@@ -1,8 +1,8 @@
-# Handmade Shop
+# Shop Bán Đồ Decor Phòng
 Ứng dụng web bán hàng thủ công, giúp người dùng dễ dàng mua sắm và quản lý đơn hàng.
 
 ## Cài đặt
-1. Clone repo: `git clone https://github.com/nhatphuong1210/Handmade_Shop.git`  
+1. Clone repo: `git clone https://github.com/leminhkhanh1211/doanweb_shopbanhang`  
 2. Chạy `composer install` để cài dependencies  
 3. Thiết lập `.env` theo file mẫu `.env.example`  
 4. Chạy `php artisan migrate` để tạo database  

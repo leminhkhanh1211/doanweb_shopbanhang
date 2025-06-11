@@ -26,6 +26,7 @@
 + Giao diện của khách hàng được thiết kế thân thiện và dễ sử dụng, giúp người dùng có thể dễ dàng thực hiện các thao tác mua sắm trên website.
  
 **+ Giao diện trang chủ** hiển thị các sản phẩm nổi bật và các danh mục chính, giúp khách hàng dễ dàng tìm kiếm sản phẩm.
+![image](https://github.com/user-attachments/assets/7913eec0-00d4-4ed4-ac94-e86d9f21f1ef)
 
 ![image](https://github.com/user-attachments/assets/a2ed8fb0-3748-41f3-baa8-ef4a70e4a4b5)
 

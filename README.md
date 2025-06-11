@@ -9,10 +9,21 @@
 5. Khởi động server: `php artisan serve`
 
 ## Tính năng
-- Đăng ký / Đăng nhập khách hàng và admin  
-- Quản lý sản phẩm, danh mục, thương hiệu  
-- Giỏ hàng, thanh toán online  
-- Quản lý đơn hàng, vận chuyển, mã giảm giá
+- Khách hàng: 
+ + Tìm kiếm các sản phẩm decor.
+ + Liên hệ 
+ + Đặt mua và thanh toán sản phẩm.
+ + Viết đánh giá hoặc phản hồi về sản phẩm.
+ + Xem tin tức
+- Quản trị viên:
+ + Quản lý khách hàng.
+ + Quản lý slider.
+ + Quản lý đơn hàng.
+ + Quản lý mã giảm giá.
+ + Quản lý vận chuyển.
+ + Quản lý danh mục.
+ + Quản lý thương hiệu.
+ + Quản lý sản phẩm.
 
 ### Công Nghệ
 - PHP (Laravel)
@@ -51,6 +62,9 @@
 **+ Giao diện xem chi tiết sản phẩm** cung cấp đầy đủ thông tin về sản phẩm bao gồm hình ảnh, mô tả, giá cả và đánh giá.
 
 ![image](https://github.com/user-attachments/assets/569f795d-345a-4e78-9e1c-e9952ab6c3e4)
+**+ Giao diện gửi bình luận/đánh giá sản phẩm** cho phép người dùng gửi đánh giá sản phẩm .
+
+![image](https://github.com/user-attachments/assets/2f0ea4e7-47e8-457e-8034-a67c10201661)
 
 **+ Giao diện giỏ hàng** giúp khách hàng quản lý các sản phẩm đã chọn trước khi tiến hành đặt hàng.
 

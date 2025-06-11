@@ -10,20 +10,20 @@
 
 ## Tính năng
 - Khách hàng: 
- + Tìm kiếm các sản phẩm decor.
- + Liên hệ 
- + Đặt mua và thanh toán sản phẩm.
- + Viết đánh giá hoặc phản hồi về sản phẩm.
- + Xem tin tức
+ 1. Tìm kiếm các sản phẩm decor.
+ 2. Liên hệ 
+ 3. Đặt mua và thanh toán sản phẩm.
+ 4. Viết đánh giá hoặc phản hồi về sản phẩm.
+ 5. Xem tin tức
 - Quản trị viên:
- + Quản lý khách hàng.
- + Quản lý slider.
- + Quản lý đơn hàng.
- + Quản lý mã giảm giá.
- + Quản lý vận chuyển.
- + Quản lý danh mục.
- + Quản lý thương hiệu.
- + Quản lý sản phẩm.
+ 1. Quản lý khách hàng.
+ 2. Quản lý slider.
+ 3. Quản lý đơn hàng.
+ 4. Quản lý mã giảm giá.
+ 5. Quản lý vận chuyển.
+ 6. Quản lý danh mục.
+ 7. Quản lý thương hiệu.
+ 8. Quản lý sản phẩm.
 
 ### Công Nghệ
 - PHP (Laravel)
@@ -74,9 +74,6 @@
 
 ![image](https://github.com/user-attachments/assets/90219f93-496f-4929-a4a6-de9914ca7800)
 
-**+ Giao diện tính phí vận chuyển** hỗ trợ khách hàng tính toán chi phí vận chuyển dựa trên địa chỉ nhận hàng.
-
-![image](https://github.com/user-attachments/assets/16860215-06ca-44f0-bcc9-9a3ffab59821)
 **+ Giao diện đặt hàng** hoàn tất quá trình mua sắm và gửi đơn hàng đến hệ thống xử lý.
 ![image](https://github.com/user-attachments/assets/08208480-74c4-41ac-8f3d-c48d0c60e589)
 

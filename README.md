@@ -40,10 +40,12 @@
 
 **+ Giao diện xem sản phẩm** cho phép khách hàng xem danh sách các sản phẩm theo từng danh mục.
 
-![image](https://github.com/user-attachments/assets/373052e9-e73a-46e0-97b9-d3b6e6ee9333)
+![image](https://github.com/user-attachments/assets/3bf674d4-a877-40e6-976e-d357f9018455)
+
 **+ Giao diện xem chi tiết sản phẩm** cung cấp đầy đủ thông tin về sản phẩm bao gồm hình ảnh, mô tả, giá cả và đánh giá.
 
-![image](https://github.com/user-attachments/assets/96d082fb-e77b-4f2b-835c-dd2f44a733db)
+![image](https://github.com/user-attachments/assets/569f795d-345a-4e78-9e1c-e9952ab6c3e4)
+
 **+ Giao diện giỏ hàng** giúp khách hàng quản lý các sản phẩm đã chọn trước khi tiến hành đặt hàng.
 
 ![image](https://github.com/user-attachments/assets/93799b52-6f90-4021-ad60-a5e6e9fe7b0f)

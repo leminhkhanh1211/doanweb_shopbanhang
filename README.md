@@ -26,9 +26,8 @@
 + Giao diện của khách hàng được thiết kế thân thiện và dễ sử dụng, giúp người dùng có thể dễ dàng thực hiện các thao tác mua sắm trên website.
  
 **+ Giao diện trang chủ** hiển thị các sản phẩm nổi bật và các danh mục chính, giúp khách hàng dễ dàng tìm kiếm sản phẩm.
-![image](https://github.com/user-attachments/assets/7913eec0-00d4-4ed4-ac94-e86d9f21f1ef)
 
-![image](https://github.com/user-attachments/assets/a2ed8fb0-3748-41f3-baa8-ef4a70e4a4b5)
+![image](https://github.com/user-attachments/assets/7913eec0-00d4-4ed4-ac94-e86d9f21f1ef)
 
 **+ Giao diện đăng nhập** cho phép khách hàng đăng nhập vào hệ thống để quản lý tài khoản và đặt hàng.
 
@@ -37,6 +36,13 @@
 **+ Giao diện đăng kí** cho phép khách hàng tạo tài khoản mới một cách nhanh chóng và thuận tiện.
 
 ![image](https://github.com/user-attachments/assets/00896240-376f-4114-9a80-97c5e70a07dc)
+**+ Giao diện xem tin tức** cho phép khách hàng xem danh sách các bài viết theo từng danh mục.
+
+![image](https://github.com/user-attachments/assets/d16f87f8-dea7-4dcc-8f4a-29a69b643963)
+
+**+ Giao diện xem chi tiết tin tức** cung cấp đầy đủ thông tin về bài viết.
+
+![image](https://github.com/user-attachments/assets/52012a04-08c8-47eb-b62e-46bb9719035f)
 
 **+ Giao diện xem sản phẩm** cho phép khách hàng xem danh sách các sản phẩm theo từng danh mục.
 

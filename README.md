@@ -64,9 +64,9 @@
 1.1.2. Giao diện của quản trị viên
 Giao diện quản trị viên được thiết kế chuyên nghiệp với đầy đủ chức năng quản lý hệ thống, giúp quản trị viên dễ dàng điều hành và cập nhật thông tin.
 
-
-![image](https://github.com/user-attachments/assets/e2da4e58-09e3-41f8-8723-2918af8b027b)
 **Giao diện đăng nhập Admin** bảo mật, chỉ cho phép người có quyền truy cập vào trang quản trị.
+![image](https://github.com/user-attachments/assets/1addb0d9-314b-453c-a559-7c843c72495a)
+
 
 ![image](https://github.com/user-attachments/assets/0a8f222f-ac6b-4c10-b7d7-6e83ccb2a313)
 **Giao diện trang quản trị** t
@@ -74,10 +74,12 @@ Giao diện quản trị viên được thiết kế chuyên nghiệp với đ�
 ![image](https://github.com/user-attachments/assets/dc7db013-25ab-4582-bcfe-afdd4418de55)
 **Giao diện trang quản lí thêm danh mục** cho phép quản trị viên tạo mới các danh mục sản phẩm.
 
-![image](https://github.com/user-attachments/assets/d6c819b0-66a1-45cc-834f-e6823ce36290)
+![image](https://github.com/user-attachments/assets/8c21025c-23b0-4cb2-8f4d-fcc09d5cf984)
+
 **Giao diện trang quản lí liệt kê danh mục sản phẩm** giúp theo dõi và chỉnh sửa các danh mục hiện có.
 
-![image](https://github.com/user-attachments/assets/468b43de-09e8-4222-a1ce-d46d8ebcbf18)
+![image](https://github.com/user-attachments/assets/486e1873-b6de-41d3-bbcd-997226a1ae24)
+
 **Giao diện trang quản lí thêm thương hiệu sản phẩm** cho phép thêm mới các thương hiệu vào hệ thống.
 
 ![image](https://github.com/user-attachments/assets/23dfbdb8-9d6d-4e31-92b9-792976c6eab2)
@@ -92,7 +94,8 @@ Giao diện quản trị viên được thiết kế chuyên nghiệp với đ�
 ![image](https://github.com/user-attachments/assets/73ca5027-43a4-48d7-a2eb-a8cdd3c3bc89)
 **Giao diện trang quản lí liệt kê đơn hàng** giúp quản trị viên theo dõi các đơn hàng đã được đặt.
 
-![image](https://github.com/user-attachments/assets/d2e9601a-5270-402a-bb9c-e3c8d0c9c5d6)
+![image](https://github.com/user-attachments/assets/72a6b16e-9a4c-443e-bd65-5a1e727b89fe)
+
 **Giao diện trang quản lí thêm mã giảm giá** cho phép tạo các chương trình khuyến mãi.
 
 ![image](https://github.com/user-attachments/assets/32e17926-91f3-4262-af3c-397c171ce7bc)

@@ -31,7 +31,7 @@
 ![image](https://github.com/user-attachments/assets/7129c6fa-eb6c-4829-8cf4-d3c727383217)
 **+ Giao diện đăng nhập** cho phép khách hàng đăng nhập vào hệ thống để quản lý tài khoản và đặt hàng.
 
-![image](https://github.com/user-attachments/assets/fa268711-1dc9-445c-ba91-8e7d5541d41e)
+![image](https://github.com/user-attachments/assets/0920b8d8-30da-4c5e-b9df-ed7dc52fd080)
 **+ Giao diện đăng kí** cho phép khách hàng tạo tài khoản mới một cách nhanh chóng và thuận tiện.
 
 ![image](https://github.com/user-attachments/assets/5d8e8a70-e0de-4aeb-94cc-e3811bfa234e)
